@@ -30,6 +30,12 @@ To view the Huddle Landing Page:
    ```bash
    git clone <repository-url>
   ```
+ **Navigate to the project directory:**
+
+    ```bash
+    cd ART-GALLERY-WEBSITE
+    ```
+
 2. Open the index.html file in a web browser.
 
 3. Folder Structure
